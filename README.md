@@ -1,2 +1,3 @@
-# graphy-connected
-My study on Graph API HTTP client using Facebook Graph API
+## graphy-connected
+
+My practice on integration with Graph API HTTP client with [Facebook Graph API](https://developers.facebook.com/docs/graph-api)
